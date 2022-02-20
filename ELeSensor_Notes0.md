@@ -1,4 +1,4 @@
-﻿## I. Introduction  
+## I. Introduction
 > **Fiber Bragg gratings (FBGs)** 光纤布拉格光栅（FBG）  
 **the peak tracking method** 传统研究方法 —— 研究对象 temperature and strain   
 **matrix inversion technique** 也是传统研究数学理论  ——  
